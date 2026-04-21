@@ -50,13 +50,13 @@ src/
 1. Clone the repository:
 
 ```
-git clone https://github.com/guri5405/todoredux.git
+https://github.com/guri5405/07reactreduxuses.git
 ```
 
 2. Navigate to project folder:
 
 ```
-cd todoredux
+cd 07reactreduxuses
 ```
 
 3. Install dependencies:
